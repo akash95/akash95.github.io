@@ -1,0 +1,65 @@
+
+
+
+
+a
+{
+	color: #0fffff;
+	text-decoration: none;
+font-family: Verdana;
+}
+
+.boxed
+{
+	
+}
+.myimage
+{
+	position: fixed;
+	
+display: inline;
+min-height: 12px;
+min-width: 14px;
+
+}
+#about
+{       font-size:20px;  
+	margin-left: 10px;
+	font-family: Verdana;
+	color: black;
+overflow:auto;
+min-width: 10px;
+}
+#HeaderText
+{
+	color:#EE9A00;
+	overflow:auto;
+
+}
+p
+{                
+	font-family: Verdana;
+	font-size: 20px;
+	color: black ;
+	overflow: auto;
+}
+
+
+h1
+{
+	color: #EE9A00;
+	overflow:auto;
+}
+ul
+{
+ color:#00B2EE;
+ font-size:30px;
+ min-width: 960px;
+}
+#images{
+	display:inline;
+}
+#wrapper
+{
+	position:relative;
+}
